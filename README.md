@@ -68,8 +68,7 @@ function displayValue(buttonEnterValue) {
 
 1. 화면에 직접적으로 출력되는 displayValue(buttonEnterValue) 함수는 먼저 입력 필드 값을 입력하지 않고 추가 버튼을 클릭했을 때를 대비하여 입력값이 비어있지 않은 경우 실행되는 코드와 아닐 때의 코드를 작성했습니다.
 
-```
-
+```js
 // 3. 받은 input 값 리스트에 추가
 function displayValue(buttonEnterValue) {
   if (buttonEnterValue != "") {
