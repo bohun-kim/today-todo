@@ -54,10 +54,11 @@ function displayValue(buttonEnterValue) {
     inputId.value = "";
   } else {
     // input 값이 비워져 있을 때 예외처리
-    alert("할 일을 입력해보세요!");
+    alert("오늘의 할 일을 입력해보세요!");
   }
 }
 
+// 4. 리스트 삭제 버튼
 document.addEventListener("click", (event) => {
   if (event.target.classList.contains("delete")) {
     const deleteItem = event.target.closest(".list-item");
