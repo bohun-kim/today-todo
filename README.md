@@ -2,6 +2,9 @@
 
 ![](https://velog.velcdn.com/images/bohun-kim/post/4ddb358d-a3b3-4305-abe6-78a449e61898/image.png)
 
+[프로젝트 구경하기](https://bohun-kim.github.io/today_todo/).
+
+
 자바스크립트를 이용하여 오늘을 할 일을 기록하는 투두리스트 입니다.
 
 # 목표
